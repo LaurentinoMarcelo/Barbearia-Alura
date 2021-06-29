@@ -25,7 +25,7 @@
 Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e boas práticas adotados na criação de páginas web abordado diversos temas como posicionameto, listas, navegação, formularios, tabelas...
 ---
 
-## Funcionalidades
+## ⚙Funcionalidades
 
 -Basicamente o site consiste de apenas 3 páginas pois o fim é apenas didático e introdutório no html e css, sendo essas páginas o index, produtos e contato:
 
