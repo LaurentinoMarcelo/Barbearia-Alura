@@ -6,10 +6,10 @@
 </h1>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#sobre-o-projeto">Sobre</a> •
+ <a href="#Funcionalidades">Funcionalidades</a> •
+ <a href="#layout">Layout</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
 
@@ -18,14 +18,14 @@
 </h4>
 
 
-## 💻 Sobre o projeto
+## 💻Sobre o projeto
 
 ✂️ Barbearia-Alura foi um projeto que desenvolvido durante os módulos de formação de front-end da Alura no que diz respeito a html e ccs.
 
 Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e boas práticas adotados na criação de páginas web abordado diversos temas como posicionameto, listas, navegação, formularios, tabelas...
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️Funcionalidades
 
 -Basicamente o site consiste de apenas 3 páginas pois o fim é apenas didático e introdutório no html e css, sendo essas páginas o index, produtos e contato:
 
@@ -54,13 +54,13 @@ Esse projeto foi desenvolvido para o estudo de implementação de conceitos bás
 
 ---
 
-## 🎨 Layout
+## 🎨Layout
 
 O layout foi fornecido pelo professor do Alura 
 [Pedro Marins](https://www.linkedin.com/in/pedromarins/) :
 
 
-### 🛠 Tecnologias
+### 🛠Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -71,7 +71,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 
-## 📝 Licença
+## 📝Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
