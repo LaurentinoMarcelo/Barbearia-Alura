@@ -1,5 +1,6 @@
 body {
 	font-family: 'Montserrat', sans-serif;
+	
 }
 
 header {
@@ -155,7 +156,7 @@ td, th {
 
 /* css da página inicial */
 .banner {
-	width:100%;
+	width: 100%;
 }
 
 .titulo-principal {
